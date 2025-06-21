@@ -1,0 +1,10 @@
+git status
+git add testing.py
+git status
+rm python.py
+ls
+rm testing.py
+git status
+git recover yesting.py
+git restore testing.py
+git commit
