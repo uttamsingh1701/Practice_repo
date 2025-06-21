@@ -8,3 +8,11 @@ git status
 git recover yesting.py
 git restore testing.py
 git commit
+ git remote set url origin https://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@github.com/uttamsingh1701/Practice_repo.git
+git remote set url origin https://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@github.com/uttamsingh1701/Practice_repo
+git remote set-url origin https://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@github.com/uttamsingh1701/Practice_repo
+git remote -v
+git push origin master
+mkdir clone-code
+cd .\clone-code\
+git clone https://github.com/uttamsingh1701/django-notes-app.git
