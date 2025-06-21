@@ -16,3 +16,5 @@ git push origin master
 mkdir clone-code
 cd .\clone-code\
 git clone https://github.com/uttamsingh1701/django-notes-app.git
+
+new changes
